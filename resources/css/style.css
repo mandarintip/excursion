@@ -20,7 +20,11 @@ h2{
     font-size: 42px;
 }
 
-.feature{
+p{
     font-size: 21px;
     color: grey;
+}
+
+.footer{
+    text-align: right;
 }
